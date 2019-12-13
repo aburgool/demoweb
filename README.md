@@ -23,3 +23,5 @@ enjoy !
 
 PD: there is a simple index.html style guide once you run the django dev server as:
 - python manage.py runserver
+
+![demoapp template](/demoweb/demoapp/static/demoapp/img/demoweb.png)
