@@ -17,7 +17,8 @@ Then cd into demoweb and startapp demoapp as:
 
 Of course feel free to clone this project to avoid previous steps :-)
 
-The demoapp/templates/demoapp/base.html as the key, it will extend from admin:base.html and override some django template blocks, that's all !
+The demoapp/templates/demoapp/base.html is the key, 
+it will extend from admin:base.html and override some django template blocks, that's all !
 
 enjoy !
 
