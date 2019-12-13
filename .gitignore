@@ -1,0 +1,5 @@
+.pyenv
+.vscode
+.git
+*.pyc
+db.sqlite3
